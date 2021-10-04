@@ -14,6 +14,6 @@ Lab05. Mask filtering - 3Lowpass, 5Lowpass, median
 
 Lab06. Morphology - Dilation, Closing
 
-Lab07. 
+Lab07. Geometric Processing - Zoom in
 
 Lab08. 
