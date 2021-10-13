@@ -16,4 +16,4 @@ Lab06. Morphology - Dilation, Closing
 
 Lab07. Geometric Processing - Zoom in
 
-Lab08. 
+Lab08. Edge detection - Hough transform
